@@ -1,0 +1,4 @@
+Git is a tool for tracking changes and keeping track of work done on a project.
+Git status sees the status of the repository.
+git branch - sees status of branches.
+git checkout - switches branches.
